@@ -1,0 +1,18 @@
+.container {
+    display: inline-grid;
+
+    .canvas {
+        background-color: black;
+        margin: 0 50px;
+    }
+
+    button {
+        padding: 10px;
+        margin: 5px;
+        background-color: blueviolet;
+        color: white;
+        border: none;
+        font-size: 16px;
+        cursor: pointer;
+    }
+}
