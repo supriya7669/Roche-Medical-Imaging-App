@@ -1,2 +1,1 @@
-# Roche-Medical-Imaging-App
-Implemented Image and Ellipse Annotation in aMedical Imaging App and displayed on Canvas using ngrx store
+Implemented Image and Ellipse Annotation in an Imaging App and displayed on Canvas using ngrx store
